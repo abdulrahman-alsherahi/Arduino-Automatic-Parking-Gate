@@ -87,3 +87,6 @@ Planned upgrades:
 Automatic-Parking-Gate2.jpeg
 Automatic-Parking-Gate.jpeg
 
+![Arduino Automatic Parking Gate](Automatic-Parking-Gate.jpeg)
+![Arduino Automatic Parking Gate](Automatic-Parking-Gate2.jpeg)
+

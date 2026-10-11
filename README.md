@@ -83,3 +83,7 @@ Planned upgrades:
 - Entry and exit sensors
 - Automatic lighting
 - More advanced parking logic
+
+Automatic-Parking-Gate2.jpeg
+Automatic-Parking-Gate.jpeg
+
